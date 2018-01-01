@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/SXEii"><a href="//imgur.com/SXEii"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://imgur.com/a/SXEii"><img src="https://imgur.com/a/SXEii.gif"/></a>
 
 
 
